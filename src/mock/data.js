@@ -10,9 +10,9 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: 'hyunsoo Jang',
-  subtitle: "I'm working as software developer.",
-  cta: '',
+  name: '장현수',
+  subtitle: '성장중인 개발자 입니다.',
+  cta: '더 알아보기',
 };
 
 // ABOUT DATA
