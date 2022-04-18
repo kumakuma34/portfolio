@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne: '인하대학교 컴퓨터공학과 졸업 :: 2016.03 ~ 2020.02<br/>수강과목 : ',
+  paragraphTwo: 'CJ올리브네트웍스 시스템 개발,운영 :: 2020.01 ~ 2021.07 (19개월)',
+  paragraphThree: '삼성전자 MX 사업부 SW 개발 :: 2021.07 ~ (재직중)',
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
